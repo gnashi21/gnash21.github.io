@@ -1,6 +1,6 @@
 ---
 title: "Bayesian Inference of Gene Regulatory Networks at Stochastic Steady State"
-collection: manuscripts
+collection: publications
 category: manuscripts
 permalink: https://www.biorxiv.org/content/10.64898/2026.01.10.698684v1
 excerpt: 'This paper presents a Bayesian framework for inferring Gene Regulatory Networks, grounded in the biochemical reality of gene expression dynamics rather than purely statistical assumptions.''
